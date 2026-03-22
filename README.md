@@ -1,6 +1,6 @@
 # 🛰️ Aerial GCP Keypoint Detection & Shape Classification
 
-This project focuses on detecting **Ground Control Points (GCPs)** from aerial imagery and predicting:
+This project focuses on detecting **Ground Control Points (GCPs)** from aerial imagery and predicting: 
 
 * 📍 **Precise keypoint location** `(x, y)`
 * 🔷 **Shape classification** of the marker
